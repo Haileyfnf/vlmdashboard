@@ -26,7 +26,7 @@ build/
 # 데이터 파일
 *.csv
 *.json
-*.xlsx
+# *.xlsx  # 필수 엑셀 파일은 포함
 data/
 
 
